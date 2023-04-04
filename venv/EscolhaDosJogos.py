@@ -2,7 +2,7 @@ import testecomFor
 import forca
 
 def escolhe_jogo():
-print("*********************************")
+ print("*********************************")
 print("*****Esoclha o seu jogo!*********")
 print("*********************************")
 

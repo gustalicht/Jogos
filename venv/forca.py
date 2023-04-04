@@ -3,7 +3,7 @@ import random
 
 def jogar():
     print("*********************************")
-    print("bem vindo ao jogo da Forca!")
+    print("bem vindo ao jogo da Forc!")
     print("*********************************")
 
     palavra_secreta = ['tomate', 'banana', 'melancia', 'laranja', 'limao', 'teste', 'prato']

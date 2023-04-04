@@ -24,7 +24,7 @@ def jogar():
 
     for rodada in range(1, total_de_tentativas + 1):
         print("Tentativa", rodada, "de", total_de_tentativas)
-        chute_str = input("digite o seu numero: ")
+        chute_str = input("digite o seu numeo: ")
         print("você digitou ", chute_str)
         chute = int(chute_str)
         if (chute < 1 or chute > 100):
