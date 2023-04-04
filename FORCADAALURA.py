@@ -14,8 +14,7 @@ def jogar():
 
         print("Jogando...")
 
-
-print("Fim do jogo")
+    print("Fim do jogo")
 
 if (__name__ == "__main__"):
     jogar()
